@@ -1,0 +1,1 @@
+cmd_drivers/mtk_misc/export_symbol/built-in.a :=  rm -f drivers/mtk_misc/export_symbol/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/mtk_misc/export_symbol/built-in.a drivers/mtk_misc/export_symbol/export_symbol.o

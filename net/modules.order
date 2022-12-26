@@ -1,0 +1,5 @@
+kernel/net/wireless/cfg80211.ko
+kernel/net/bluetooth/bluetooth.ko
+kernel/net/bluetooth/rfcomm/rfcomm.ko
+kernel/net/bluetooth/bnep/bnep.ko
+kernel/net/bluetooth/hidp/hidp.ko

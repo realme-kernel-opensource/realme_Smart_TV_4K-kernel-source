@@ -1,0 +1,1 @@
+cmd_drivers/mtk_misc/cb2/built-in.a :=  rm -f drivers/mtk_misc/cb2/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/mtk_misc/cb2/built-in.a drivers/mtk_misc/cb2/cb2_low.o drivers/mtk_misc/cb2/fops_cb2.o drivers/mtk_misc/cb2/mt53xx_cb2.o

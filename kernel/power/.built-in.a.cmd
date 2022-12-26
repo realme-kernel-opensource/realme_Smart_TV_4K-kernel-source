@@ -1,0 +1,1 @@
+cmd_kernel/power/built-in.a :=  rm -f kernel/power/built-in.a; aarch64-linux-gnu-ar rcSTPD kernel/power/built-in.a kernel/power/qos.o kernel/power/main.o kernel/power/console.o kernel/power/process.o kernel/power/suspend.o kernel/power/suspend_test.o kernel/power/autosleep.o kernel/power/wakelock.o kernel/power/poweroff.o kernel/power/wakeup_reason.o kernel/power/mstar_xc_str.o

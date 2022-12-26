@@ -1,0 +1,28 @@
+!<thin>
+//                                              186       `
+hid-core.o/
+hid-input.o/
+hid-quirks.o/
+hid-debug.o/
+hidraw.o/
+hid-generic.o/
+hid-apple.o/
+hid-lg.o/
+hid-magicmouse.o/
+hid-sony.o/
+usbhid/hid-core.o/
+usbhid/hiddev.o/
+usbhid/hid-pidff.o/
+/0              0           0     0     644     357440    `
+/12             0           0     0     644     579920    `
+/25             0           0     0     644     153520    `
+/39             0           0     0     644     245968    `
+/52             0           0     0     644     246912    `
+/62             0           0     0     644     136776    `
+/77             0           0     0     644     180000    `
+/90             0           0     0     644     324152    `
+/100            0           0     0     644     184952    `
+/118            0           0     0     644     364360    `
+/130            0           0     0     644     345488    `
+/149            0           0     0     644     272960    `
+/166            0           0     0     644     214496    `

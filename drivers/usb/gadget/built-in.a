@@ -1,0 +1,37 @@
+!<thin>
+//                                              282       `
+usbstring.o/
+config.o/
+epautoconf.o/
+composite.o/
+functions.o/
+configfs.o/
+u_f.o/
+udc/core.o/
+udc/trace.o/
+udc/msb250x_udc.o/
+udc/ms_dma.o/
+function/f_mass_storage.o/
+function/storage_common.o/
+function/f_fs.o/
+function/f_midi.o/
+function/f_accessory.o/
+function/f_audio_source.o/
+
+/0              0           0     0     644     9816      `
+/13             0           0     0     644     158080    `
+/23             0           0     0     644     135944    `
+/37             0           0     0     644     281456    `
+/50             0           0     0     644     152336    `
+/63             0           0     0     644     360344    `
+/75             0           0     0     644     14464     `
+/82             0           0     0     644     396672    `
+/94             0           0     0     644     262080    `
+/107            0           0     0     644     452432    `
+/126            0           0     0     644     196624    `
+/140            0           0     0     644     465496    `
+/167            0           0     0     644     221968    `
+/194            0           0     0     644     516936    `
+/211            0           0     0     644     258176    `
+/230            0           0     0     644     318200    `
+/254            0           0     0     644     238592    `

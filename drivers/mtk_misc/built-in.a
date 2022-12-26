@@ -1,0 +1,18 @@
+!<thin>
+//                                              160       `
+met/met_api.o/
+mtk_perf/perf_event.o/
+timestamp/timestamp.o/
+cb2/cb2_low.o/
+cb2/fops_cb2.o/
+cb2/mt53xx_cb2.o/
+log2usb/log_dev.o/
+export_symbol/export_symbol.o/
+/0              0           0     0     644     263848    `
+/15             0           0     0     644     376720    `
+/38             0           0     0     644     123576    `
+/61             0           0     0     644     59696     `
+/76             0           0     0     644     113232    `
+/92             0           0     0     644     21200     `
+/110            0           0     0     644     138424    `
+/129           /0           0     0     644     1161      `

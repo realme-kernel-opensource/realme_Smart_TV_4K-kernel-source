@@ -1,0 +1,1 @@
+cmd_net/wireless/cfg80211.ko := aarch64-linux-gnu-ld -r  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o net/wireless/cfg80211.ko net/wireless/cfg80211.o net/wireless/cfg80211.mod.o ;  true

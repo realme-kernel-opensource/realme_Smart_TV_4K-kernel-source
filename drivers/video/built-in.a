@@ -1,0 +1,51 @@
+!<thin>
+//                                              530       `
+hdmi.o/
+console/dummycon.o/
+backlight/backlight.o/
+backlight/generic_bl.o/
+fbdev/core/fb_cmdline.o/
+fbdev/core/fb_notify.o/
+fbdev/core/fbmem.o/
+fbdev/core/fbmon.o/
+fbdev/core/fbcmap.o/
+fbdev/core/fbsysfs.o/
+fbdev/core/modedb.o/
+fbdev/core/fbcvt.o/
+fbdev/core/fb_defio.o/
+fbdev/core/fbcon.o/
+fbdev/core/bitblit.o/
+fbdev/core/softcursor.o/
+fbdev/core/cfbfillrect.o/
+fbdev/core/cfbcopyarea.o/
+fbdev/core/cfbimgblt.o/
+fbdev/core/sysfillrect.o/
+fbdev/core/syscopyarea.o/
+fbdev/core/sysimgblt.o/
+fbdev/core/fb_sys_fops.o/
+fbdev/vfb.o/
+
+/0              0           0     0     644     104064    `
+/8              0           0     0     644     148968    `
+/28             0           0     0     644     224856    `
+/51             0           0     0     644     158736    `
+/75             0           0     0     644     15376     `
+/100            0           0     0     644     131144    `
+/124            0           0     0     644     504896    `
+/144            0           0     0     644     158256    `
+/164            0           0     0     644     190648    `
+/185            0           0     0     644     189760    `
+/207            0           0     0     644     199608    `
+/228            0           0     0     644     19120     `
+/248            0           0     0     644     209896    `
+/271            0           0     0     644     499056    `
+/291            0           0     0     644     195808    `
+/313            0           0     0     644     165952    `
+/338            0           0     0     644     175760    `
+/364            0           0     0     644     181080    `
+/390            0           0     0     644     160520    `
+/414            0           0     0     644     162144    `
+/440            0           0     0     644     159624    `
+/466            0           0     0     644     157528    `
+/490            0           0     0     644     155576    `
+/516            0           0     0     644     169008    `

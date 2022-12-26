@@ -1,0 +1,1 @@
+cmd_drivers/mstar2/drv/cpu/arm64/generic/cpu_io/built-in.a :=  rm -f drivers/mstar2/drv/cpu/arm64/generic/cpu_io/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/mstar2/drv/cpu/arm64/generic/cpu_io/built-in.a drivers/mstar2/drv/cpu/arm64/generic/cpu_io/mdrv_cpu_io.o

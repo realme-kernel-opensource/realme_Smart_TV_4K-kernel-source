@@ -1,0 +1,5 @@
+arch/arm64/boot/dts/arm/.foundation-v8-gicv3-psci.dtb.dts.tmp: \
+  arch/arm64/boot/dts/arm/foundation-v8-gicv3-psci.dts \
+  arch/arm64/boot/dts/arm/foundation-v8.dtsi \
+  arch/arm64/boot/dts/arm/foundation-v8-gicv3.dtsi \
+  arch/arm64/boot/dts/arm/foundation-v8-psci.dtsi

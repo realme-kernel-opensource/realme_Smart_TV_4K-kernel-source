@@ -1,0 +1,32 @@
+!<thin>
+//                                              218       `
+psci.o/
+dmi_scan.o/
+dmi-id.o/
+efi/efi.o/
+efi/vars.o/
+efi/reboot.o/
+efi/memattr.o/
+efi/tpm.o/
+efi/capsule.o/
+efi/memmap.o/
+efi/esrt.o/
+efi/runtime-wrappers.o/
+efi/libstub/lib-ksyms.o/
+efi/arm-init.o/
+efi/arm-runtime.o/
+/0              0           0     0     644     211768    `
+/8              0           0     0     644     213728    `
+/20             0           0     0     644     67448     `
+/30             0           0     0     644     208040    `
+/41             0           0     0     644     212264    `
+/53             0           0     0     644     13008     `
+/67             0           0     0     644     127408    `
+/82             0           0     0     644     7024      `
+/93             0           0     0     644     148264    `
+/108            0           0     0     644     134680    `
+/122            0           0     0     644     156688    `
+/134            0           0     0     644     82616     `
+/158            0           0     0     644     657       `
+/183            0           0     0     644     148304    `
+/199            0           0     0     644     175992    `

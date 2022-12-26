@@ -1,0 +1,20 @@
+!<thin>
+//                                              170       `
+cpufreq.o/
+freq_table.o/
+cpufreq_times.o/
+cpufreq_performance.o/
+cpufreq_ondemand.o/
+cpufreq_governor.o/
+cpufreq_governor_attr_set.o/
+cpufreq-dt.o/
+cpufreq-dt-platdev.o/
+/0              0           0     0     644     527104    `
+/11             0           0     0     644     86800     `
+/25            /0           0     0     644     174920    `
+/42             0           0     0     644     60664     `
+/65             0           0     0     644     141224    `
+/85             0           0     0     644     109968    `
+/105            0           0     0     644     32368     `
+/134            0           0     0     644     109376    `
+/148            0           0     0     644     60520     `

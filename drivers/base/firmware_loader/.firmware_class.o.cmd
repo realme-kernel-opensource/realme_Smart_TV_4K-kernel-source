@@ -1,0 +1,1 @@
+cmd_drivers/base/firmware_loader/firmware_class.o := aarch64-linux-gnu-ld     -r -o drivers/base/firmware_loader/firmware_class.o drivers/base/firmware_loader/main.o drivers/base/firmware_loader/fallback.o 

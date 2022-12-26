@@ -1,0 +1,15 @@
+kernel/drivers/usb/usbcimoduledrv.ko
+kernel/drivers/usb/common/usb-common.ko
+kernel/drivers/usb/common/usb-otg-fsm.ko
+kernel/drivers/usb/core/usbcore.ko
+kernel/drivers/usb/gadget/libcomposite.ko
+kernel/drivers/usb/gadget/function/usb_f_mass_storage.ko
+kernel/drivers/usb/gadget/function/usb_f_fs.ko
+kernel/drivers/usb/gadget/function/usb_f_midi.ko
+kernel/drivers/usb/gadget/function/usb_f_accessory.ko
+kernel/drivers/usb/gadget/function/usb_f_audio_source.ko
+kernel/drivers/usb/gadget/udc/udc-core.ko
+kernel/drivers/usb/gadget/udc/udc-msb250x.ko
+kernel/drivers/usb/host/ehci-hcd.ko
+kernel/drivers/usb/phy/phy-ms-usb.ko
+kernel/drivers/usb/storage/usb-storage.ko

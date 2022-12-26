@@ -1,0 +1,1 @@
+cmd_net/bluetooth/bnep/bnep.ko := aarch64-linux-gnu-ld -r  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o net/bluetooth/bnep/bnep.ko net/bluetooth/bnep/bnep.o net/bluetooth/bnep/bnep.mod.o ;  true

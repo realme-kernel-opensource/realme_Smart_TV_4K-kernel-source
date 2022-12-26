@@ -1,0 +1,1 @@
+cmd_drivers/staging/android/ion/mstar/built-in.a :=  rm -f drivers/staging/android/ion/mstar/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/staging/android/ion/mstar/built-in.a drivers/staging/android/ion/mstar/mstar_ion.o

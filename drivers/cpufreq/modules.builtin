@@ -1,0 +1,3 @@
+kernel/drivers/cpufreq/cpufreq_performance.ko
+kernel/drivers/cpufreq/cpufreq_ondemand.ko
+kernel/drivers/cpufreq/cpufreq-dt.ko

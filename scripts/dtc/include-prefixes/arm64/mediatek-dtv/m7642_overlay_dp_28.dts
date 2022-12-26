@@ -1,0 +1,14 @@
+/dts-v1/;
+/plugin/;
+
+/ {
+        fragment@0 {
+               target = <&soc_m7642>;
+               __overlay__ {
+                      android {
+                      };
+               };
+        };
+};
+
+

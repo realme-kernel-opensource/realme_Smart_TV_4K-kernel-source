@@ -1,0 +1,24 @@
+!<thin>
+//                                              152       `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+input-leds.o/
+mousedev.o/
+joydev.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/mtksar-keypad.o/
+misc/uinput.o/
+/0              0           0     0     644     547528    `
+/9              0           0     0     644     108456    `
+/25             0           0     0     644     156456    `
+/37             0           0     0     644     146848    `
+/48             0           0     0     644     142024    `
+/62             0           0     0     644     236000    `
+/74             0           0     0     644     341504    `
+/84             0           0     0     644     428144    `
+/93             0           0     0     644     272640    `
+/111           /0           0     0     644     210912    `
+/137            0           0     0     644     278168    `

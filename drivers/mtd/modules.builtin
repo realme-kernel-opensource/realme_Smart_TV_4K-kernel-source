@@ -1,0 +1,11 @@
+kernel/drivers/mtd/mtd.ko
+kernel/drivers/mtd/ofpart.ko
+kernel/drivers/mtd/cmdlinepart.ko
+kernel/drivers/mtd/mtd_blkdevs.ko
+kernel/drivers/mtd/mtdblock.ko
+kernel/drivers/mtd/mtdoops.ko
+kernel/drivers/mtd/chips/chipreg.ko
+kernel/drivers/mtd/nand/raw/nand.ko
+kernel/drivers/mtd/nand/raw/nand_ecc.ko
+kernel/drivers/mtd/nand/raw/plat_nand.ko
+kernel/drivers/mtd/ubi/ubi.ko

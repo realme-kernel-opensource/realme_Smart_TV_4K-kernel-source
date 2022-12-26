@@ -1,0 +1,55 @@
+!<thin>
+//                                              428       `
+trace_clock.o/
+ftrace.o/
+ring_buffer.o/
+trace.o/
+trace_output.o/
+trace_seq.o/
+trace_stat.o/
+trace_printk.o/
+trace_sched_switch.o/
+trace_functions.o/
+trace_sched_wakeup.o/
+trace_nop.o/
+trace_stack.o/
+trace_functions_graph.o/
+blktrace.o/
+trace_events.o/
+trace_export.o/
+trace_syscalls.o/
+trace_event_perf.o/
+trace_events_filter.o/
+trace_events_trigger.o/
+bpf_trace.o/
+power-traces.o/
+rpm-traces.o/
+trace_probe.o/
+trace_uprobe.o/
+
+/0              0           0     0     644     46895     `
+/15             0           0     0     644     815195    `
+/25             0           0     0     644     577248    `
+/40             0           0     0     644     1172823   `
+/49             0           0     0     644     322242    `
+/65             0           0     0     644     116748    `
+/78             0           0     0     644     201664    `
+/92             0           0     0     644     207016    `
+/108            0           0     0     644     187688    `
+/130            0           0     0     644     263056    `
+/149            0           0     0     644     284912    `
+/171            0           0     0     644     177840    `
+/184            0           0     0     644     232992    `
+/199            0           0     0     644     301920    `
+/224            0           0     0     644     6716      `
+/236            0           0     0     644     527633    `
+/252            0           0     0     644     221168    `
+/268            0           0     0     644     283736    `
+/286            0           0     0     644     208449    `
+/306            0           0     0     644     294432    `
+/329            0           0     0     644     328471    `
+/353            0           0     0     644     448931    `
+/366            0           0     0     644     458003    `
+/382            0           0     0     644     216755    `
+/396            0           0     0     644     248312    `
+/411            0           0     0     644     423112    `

@@ -1,0 +1,1 @@
+cmd_drivers/input/evdev_misc.ko := aarch64-linux-gnu-ld -r  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o drivers/input/evdev_misc.ko drivers/input/evdev_misc.o drivers/input/evdev_misc.mod.o ;  true

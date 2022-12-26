@@ -1,0 +1,3 @@
+arch/arm64/boot/dts/mediatek-dtv/.m7332_MediaTek_m7332_MT168B.dtb.dts.tmp: \
+  arch/arm64/boot/dts/mediatek-dtv/m7332_MediaTek_m7332_MT168B.dts \
+  arch/arm64/boot/dts/mediatek-dtv/m7332.dtsi

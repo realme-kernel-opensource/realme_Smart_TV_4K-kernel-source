@@ -1,0 +1,1 @@
+cmd_drivers/mtk_misc/devnode/devnode.ko := aarch64-linux-gnu-ld -r  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o drivers/mtk_misc/devnode/devnode.ko drivers/mtk_misc/devnode/devnode.o drivers/mtk_misc/devnode/devnode.mod.o ;  true
